@@ -1,0 +1,13 @@
+.movie-list {
+    margin: 50px auto;
+    border: 5px solid red;
+    width: 90vw;
+    height: 150vh;
+    background-color: #123;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+}

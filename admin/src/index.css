@@ -1,0 +1,35 @@
+a {
+    color: #646cff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #535bf2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@keyframes spin {
+    0%,
+    100% {
+        border-radius: 100%;
+    }
+    50% {
+        border-radius: 100%;
+    }
+}
+
+body {
+    background-color: #123;
+    color: #ccc;
+}
+
+ul,
+li {
+    margin: 8px;
+    padding: 0 8px;
+}
